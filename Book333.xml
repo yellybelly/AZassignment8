@@ -1,0 +1,141 @@
+<?xml version="1.0"?>
+<?mso-application progid="Excel.Sheet"?>
+<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:o="urn:schemas-microsoft-com:office:office"
+ xmlns:x="urn:schemas-microsoft-com:office:excel"
+ xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:html="http://www.w3.org/TR/REC-html40">
+ <DocumentProperties xmlns="urn:schemas-microsoft-com:office:office">
+  <Author>Ayelet Wein</Author>
+  <LastAuthor>Ayelet Wein</LastAuthor>
+  <Created>2022-10-12T23:31:47Z</Created>
+  <LastSaved>2022-10-12T23:31:55Z</LastSaved>
+  <Version>16.00</Version>
+ </DocumentProperties>
+ <OfficeDocumentSettings xmlns="urn:schemas-microsoft-com:office:office">
+  <AllowPNG/>
+ </OfficeDocumentSettings>
+ <ExcelWorkbook xmlns="urn:schemas-microsoft-com:office:excel">
+  <WindowHeight>14520</WindowHeight>
+  <WindowWidth>25440</WindowWidth>
+  <WindowTopX>1000</WindowTopX>
+  <WindowTopY>540</WindowTopY>
+  <ProtectStructure>False</ProtectStructure>
+  <ProtectWindows>False</ProtectWindows>
+ </ExcelWorkbook>
+ <Styles>
+  <Style ss:ID="Default" ss:Name="Normal">
+   <Alignment ss:Vertical="Bottom"/>
+   <Borders/>
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="12" ss:Color="#000000"/>
+   <Interior/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="m105553123561744">
+   <Alignment ss:Vertical="Center" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="2"/>
+   </Borders>
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="18" ss:Color="#000000"/>
+  </Style>
+  <Style ss:ID="m105553123561764">
+   <Alignment ss:Vertical="Center" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="2"/>
+   </Borders>
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="18" ss:Color="#000000"/>
+  </Style>
+  <Style ss:ID="m105553123561784">
+   <Alignment ss:Vertical="Center" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="2"/>
+   </Borders>
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="18" ss:Color="#000000"/>
+  </Style>
+  <Style ss:ID="m105553123561804">
+   <Alignment ss:Vertical="Center" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="2"/>
+   </Borders>
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="18" ss:Color="#000000"/>
+  </Style>
+  <Style ss:ID="s70">
+   <Alignment ss:Vertical="Center" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="2"/>
+   </Borders>
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="18" ss:Color="#000000"/>
+  </Style>
+  <Style ss:ID="s71">
+   <Alignment ss:Vertical="Center" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="2"/>
+   </Borders>
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="18" ss:Color="#000000"/>
+  </Style>
+ </Styles>
+ <Worksheet ss:Name="Book333">
+  <Table ss:ExpandedColumnCount="4" ss:ExpandedRowCount="5" x:FullColumns="1"
+   x:FullRows="1" ss:DefaultColumnWidth="65" ss:DefaultRowHeight="16">
+   <Row ss:AutoFitHeight="0" ss:Height="79">
+    <Cell ss:MergeDown="1" ss:StyleID="m105553123561744"><Data ss:Type="String">Book Title</Data></Cell>
+    <Cell ss:MergeDown="1" ss:StyleID="m105553123561764"><Data ss:Type="String">Author</Data></Cell>
+    <Cell ss:MergeDown="1" ss:StyleID="m105553123561784"><Data ss:Type="String">Interesting Attribute</Data></Cell>
+    <Cell ss:MergeDown="1" ss:StyleID="m105553123561804"><Data ss:Type="String">Interesting Attribute</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="17"/>
+   <Row ss:AutoFitHeight="0" ss:Height="411">
+    <Cell ss:StyleID="s70"><Data ss:Type="String">The Happiest Man on Earth</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">Eddie Jaku</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">The book is a memoir of someone who went through so much pain, but still considers himself the happiest man on earth. </Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">The book tells how to be happy in even the darkest of times. </Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="376">
+    <Cell ss:StyleID="s70"><Data ss:Type="String">Man’s Search For Meaning </Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">Viktor Frankl</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">The book is about the author’s own experiences as a prisoner in the Nazi concentration camps</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">The book teaches that one can always find the meaning of life in every situation, good or bad. </Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="301">
+    <Cell ss:StyleID="s70"><Data ss:Type="String">Night</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">Elie Weisel</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">The book tells the story of the author’s time in a concentration camp. </Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">The book shows that one person can make a huge difference</Data></Cell>
+   </Row>
+  </Table>
+  <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+   <PageSetup>
+    <Header x:Margin="0.3"/>
+    <Footer x:Margin="0.3"/>
+    <PageMargins x:Bottom="0.75" x:Left="0.7" x:Right="0.7" x:Top="0.75"/>
+   </PageSetup>
+   <Unsynced/>
+   <Selected/>
+   <Panes>
+    <Pane>
+     <Number>3</Number>
+     <ActiveRow>2</ActiveRow>
+     <ActiveCol>7</ActiveCol>
+    </Pane>
+   </Panes>
+   <ProtectObjects>False</ProtectObjects>
+   <ProtectScenarios>False</ProtectScenarios>
+  </WorksheetOptions>
+ </Worksheet>
+</Workbook>
