@@ -1,0 +1,45 @@
+```{r}
+library(XML)
+library(xml2)
+library(jsonlite)
+library(tidyverse)
+```
+
+LOADING THE HTML FILE INTO R
+```{r}
+htt <- read_html("3books.html")
+
+parsed_books <- htmlParse(htt)
+table <- readHTMLTable(parsed_books)
+
+html_df <- data.frame(table, stringsAsFactors = FALSE)
+
+html_df[1]
+```
+```{r}
+html_df[2]
+```
+```{r}
+html_df[3]
+html_df[4]
+```
+LOADING THE JSON FILE INTO R
+
+```{r}
+jsonn <- "3books.json"
+json_file <- fromJSON(jsonn)
+
+json_df <- flatten(data.frame(json_file, stringsAsFactors = FALSE))
+json_df
+
+```
+
+LOADING THE XML FILE INTO R
+```{R}
+xmll <- "Book333.xml"
+xmll <- read_xml(xmll)
+
+parsed_books2 <- xmlParse(xmll)
+root <- xmlRoot(parsed_books2)
+xmll
+```
